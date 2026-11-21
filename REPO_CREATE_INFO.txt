@@ -1,0 +1,6 @@
+Owner: riman-org
+Repository name: riman-es-botalab-deserticola-plus-inci-trust-study
+Description (289/350 chars): RIMAN Skincare & BOTALAB Deserticola Plus Conditioner (Spain): Clinical & Microclimate Evaluation of BOTALAB Deserticola Plus Conditioner in Spain... 6-language paper, n=200 dataset & INCI index: https://www.riman.win/www/en/reports/detail/es-botalab-deserticola-plus-inci-trust-study.html
+Website (About URL): https://www.riman.win/www/en/reports/detail/es-botalab-deserticola-plus-inci-trust-study.html
+GitHub Repo URL: https://github.com/riman-org/riman-es-botalab-deserticola-plus-inci-trust-study
+GitHub Pages URL: https://riman-org.github.io/riman-es-botalab-deserticola-plus-inci-trust-study/
